@@ -1,6 +1,8 @@
 # estacao-metereologica
 Uma Simples Estação Metereológica usando 2 sensores e Arduino
 
+![WhatsApp Image 2026-03-19 at 14 51 57](https://github.com/user-attachments/assets/f1e47282-d296-4039-bebe-e38f65b9cdeb)
+
 
 ## Esse projeto teve objetivo de demonstrar que é possivel obter dados metereológicos relevantes com baixo custo.
 
